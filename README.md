@@ -1,7 +1,7 @@
 #
 ## Covid DashBoard Graphic Status:
 
-##### - DashBoard:
+##### - Dashboard:
 - Total Casos confirmados
 - Total Mortes
 - Total Recuperados
