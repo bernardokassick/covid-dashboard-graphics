@@ -1,6 +1,8 @@
 #
 ## Covid DashBoard Graphic Status:
 
+Test here: covid-dashboard-graphics.netlify.app
+
 ##### - Dashboard:
 - Total Casos confirmados
 - Total Mortes
