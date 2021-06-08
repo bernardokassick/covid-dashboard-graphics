@@ -1,7 +1,7 @@
 #
 ## Covid DashBoard Graphic Status:
 
-Test here: covid-dashboard-graphics.netlify.app
+Test here: <a href="https://covid-dashboard-graphics.netlify.app/">covid-dashboard-graphics.netlify.app </a>  
 
 ##### - Dashboard:
 - Total Casos confirmados
