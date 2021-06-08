@@ -7,6 +7,7 @@
 - Total Recuperados
 - Total Casos ativos
 
+
 ##### - Top 10 países com mais casos: 
 - Confirmados
 - Mortes
@@ -17,6 +18,8 @@
     - Mortes
     - Recuperados
 
+<img src="./assets/img/initialPage.png" alt="página inicial" />
+<img src="./assets/img/statusCountry.png" alt="status Brasil" />
 
 ## Tecnologias utilizadas:
 - HTML5 
